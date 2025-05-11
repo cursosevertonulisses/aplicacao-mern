@@ -92,3 +92,30 @@ npm run dev
 `http://localhost:5000/` -> Servidor backend (APIs)
 
 `http://localhost:5000/api-docs/` -> Documentação APIs REST - Swagger
+
+
+## Sobre Este Projeto
+Este projeto é baseado no trabalho original de Pedro Guerra disponível em https://github.com/pehguerra/conexaoQA. O código original está licenciado sob a [ISC License](https://opensource.org/licenses/ISC ).
+
+## Minhas contribuições
+Eu fiz várias melhorias e modificações neste fork, incluindo:
+- Adição de novas funcionalidades X, Y e Z.
+- Correção de bugs importantes.
+- Melhoria na documentação e testes.
+
+## Como Usar
+Siga estas instruções para configurar e usar o projeto...
+
+# Como Contribuir
+Gostaria de ajudar a melhorar este projeto? Ótimo! Aqui estão algumas maneiras pelas quais você pode contribuir:
+
+1. **Relatar Problemas**
+   - Se encontrar algum bug ou tiver sugestões de melhoria, abra uma issue no GitHub.
+
+2. **Enviar Pull Requests**
+   - Faça forks deste repositório e envie pull requests com suas alterações.
+
+3. **Documentação**
+   - Ajude a melhorar a documentação do projeto.
+
+Obrigado por contribuir!
