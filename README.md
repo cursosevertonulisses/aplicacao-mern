@@ -45,8 +45,6 @@ ___
 
 ## Instalação
 
-### Online
-Caso não queira instalar a aplicação local, acesse o [ConexaoQA](https://conexaoqa.herokuapp.com/) publicado no Heroku.
 
 ### Local
 
