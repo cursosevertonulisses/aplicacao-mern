@@ -1,3 +1,18 @@
+# Meu Novo Projeto
+Este projeto foi inicialmente baseado no trabalho localizado neste link: (https://github.com/pehguerra/conexaoQA), mas agora é um projeto independente com novas funcionalidades e melhorias.
+
+## Recursos Adicionados
+- Nova funcionalidade X.
+- Correção de bugs importantes.
+- Melhorias na documentação e testes.
+
+## Contribuições
+- **Criador Original:** (https://github.com/pehguerra/conexaoQA)
+- **Mantenedor Atual:** Everton (https://github.com/cursosevertonulisses/conexaoQA).
+
+## Licença
+Este projeto está licenciado sob a ISC License. Consulte o arquivo `LICENSE` para mais detalhes.
+
 # ConexaoQA
 ## _Crie um perfil/portfolio de QA, compartilhe posts e obtenha ajuda de outros QAs_
 
@@ -93,15 +108,6 @@ npm run dev
 
 `http://localhost:5000/api-docs/` -> Documentação APIs REST - Swagger
 
-
-## Sobre Este Projeto
-Este projeto é baseado no trabalho original de Pedro Guerra disponível em https://github.com/pehguerra/conexaoQA. O código original está licenciado sob a [ISC License](https://opensource.org/licenses/ISC ).
-
-## Minhas contribuições
-Eu fiz várias melhorias e modificações neste fork, incluindo:
-- Adição de novas funcionalidades X, Y e Z.
-- Correção de bugs importantes.
-- Melhoria na documentação e testes.
 
 ## Como Usar
 Siga estas instruções para configurar e usar o projeto...
