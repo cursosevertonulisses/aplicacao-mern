@@ -110,10 +110,12 @@ Siga estas instruções para configurar e usar o projeto...
 Gostaria de ajudar a melhorar este projeto? Ótimo! Aqui estão algumas maneiras pelas quais você pode contribuir:
 
 1. **Relatar Problemas**
-   - Se encontrar algum bug ou tiver sugestões de melhoria, abra uma issue no GitHub.
+   - Se encontrar algum bug ou tiver sugestões de melhoria, abra uma issue no GitHub
+
 
 2. **Enviar Pull Requests**
-   - Faça forks deste repositório e envie pull requests com suas alterações.
+   - Faça forks deste repositório e envie pull requests com suas alterações
+
 
 3. **Documentação**
    - Ajude a melhorar a documentação do projeto.
