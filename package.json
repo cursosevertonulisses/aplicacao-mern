@@ -1,5 +1,5 @@
 {
-  "name": "conexaoqa",
+  "name": "aplicacao-mern",
   "version": "1.0.0",
   "description": "Rede social para QAs",
   "main": "index.js",
@@ -15,7 +15,14 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --legacy-peer-deps --prefix client && npm run build --prefix client"
   },
   "author": "Pedro Guerra",
+  "contributors": [
+    "Everton cursosevertonuliss@gmail.com"
+  ],
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cursosevertonulisses/aplicacao-mern.git "
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "concurrently": "^6.0.2",

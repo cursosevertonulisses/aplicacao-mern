@@ -12,7 +12,7 @@ const Landing = ({ isAuthenticated }) => {
         <section className="landing">
             <div className="dark-overlay">
                 <div className="landing-inner">
-                    <h1 className="x-large" data-test="landing-title">Conectando QAs ...</h1>
+                    <h1 className="x-large" data-test="landing-title">Conectando QAs ... com Aplicação full stack desenvolvida com M.E.R.N.</h1>
                     <p className="lead" data-test="landing-subtitle">
                         Crie um perfil/portfolio, compartilhe posts e obtenha ajuda
                         da comunidade de QA

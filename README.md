@@ -13,7 +13,7 @@ Este projeto foi inicialmente baseado no trabalho localizado neste link: (https:
 ## Licença
 Este projeto está licenciado sob a ISC License. Consulte o arquivo `LICENSE` para mais detalhes.
 
-# ConexaoQA
+# Aplicação MERN
 ## _Crie um perfil/portfolio de QA, compartilhe posts e obtenha ajuda de outros QAs_
 
 Aplicação para criar perfis de QA, compartilhar e postar dúvidas, dicas, vagas, ou qualquer assunto da área de qualidade de software.
@@ -57,13 +57,13 @@ Versão utilizada no desenvolvimento:
 Clonar o projeto:
 
 ```sh
-git clone https://github.com/pehguerra/conexaoQA.git
+git clone https://github.com/cursosevertonulisses/aplicacao-mern
 ```
 
 Navegar para pasta do projeto e instalar as dependências do back-end:
 
 ```sh
-cd conexaoQA
+cd aplicacao-mern
 npm install
 ```
 
@@ -100,7 +100,7 @@ npm run dev
 
 ##### URLs
 
-`http://localhost:3000/` -> Aplicação ConexãoQA
+`http://localhost:3000/` -> Aplicação MERN na prática - FRONTEND
 
 `http://localhost:5000/` -> Servidor backend (APIs)
 

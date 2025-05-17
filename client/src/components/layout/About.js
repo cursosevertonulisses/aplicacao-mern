@@ -30,7 +30,7 @@ const About = () => {
             </div>
             <div className="my-2">
                 <p className="lead"><i className="fab fa-github"></i> GitHub Repositório</p>
-                <a href="https://github.com/pehguerra/conexaoQA" target="_blank" rel="noopener noreferrer" data-test="about-github">ConexãoQA Repositório</a>
+                <a href="https://github.com/cursosevertonulisses/aplicacao-mern" target="_blank" rel="noopener noreferrer" data-test="about-github">ConexãoQA Repositório</a>
             </div>
             <div className="my-2">
                 <p className="lead"><i className="fas fa-cog"></i> Swagger - Documentação da API</p>
