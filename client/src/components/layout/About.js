@@ -6,7 +6,7 @@ const About = () => {
             <h1 className="large text-primary"><i className="fas fa-exclamation-circle"></i> Sobre</h1>
             <hr style={{ marginTop: '30px' }} />
             <div style={{ textAlign: 'right', marginTop: '5px', marginBottom: '20px' }}>
-                <p data-test="about-developer" style={{ fontSize: '13px' }}>Criado e desenvolvido por Pedro Guerra</p>
+                <p data-test="about-developer" style={{ fontSize: '13px' }}>Adaptações de um sistema como Fork do GitHub</p>
             </div>
             <div>
                 <p className="lead"><i className="fas fa-bullseye"></i> Propósito</p>
@@ -34,12 +34,8 @@ const About = () => {
             </div>
             <div className="my-2">
                 <p className="lead"><i className="fas fa-cog"></i> Swagger - Documentação da API</p>
-                <a href="https://conexaoqa.herokuapp.com/api-docs/" target="_blank" rel="noopener noreferrer" data-test="about-swagger">Express API com Swagger</a>
-            </div>
-            <div className="my-2">
-                <p className="lead"><i className="fab fa-medium"></i> Medium</p>
-                <a href="https://pedrohsguerra.medium.com/" target="_blank" rel="noopener noreferrer" data-test="about-medium">Artigos de Cypress</a>
-            </div>
+                <a href="https://localhost:5000/api-docs/" target="_blank" rel="noopener noreferrer" data-test="about-swagger">Express API com Swagger</a>
+            </div>           
         </Fragment>
     )
 }

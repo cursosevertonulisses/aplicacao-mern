@@ -30,14 +30,14 @@ const options = {
     definition: {
         openapi: '3.0.0',
         info: {
-            title: 'ConexãoQA - Express API com Swagger',
+            title: 'API Testes - Tecnologia NODE Express',
             version: '1.0.0',
             description:
-                'Documentação das APIs do ConexaoQA. Aplicação desenvolvida para treinar testes E2E e APIs com Cypress.io',
+                'Documentação das APIs. Aplicação desenvolvida para treinar testes E2E e APIs com Selenium, Cypress, Playwright e RobotFramework.',
         },
         servers: [
             {
-                url: process.env.NODE_ENV === 'production' ? 'https://conexaoqa.herokuapp.com' : 'http://localhost:5000',
+                url: process.env.NODE_ENV === 'production' ? 'https://ROTA_ALTERNATIVA_A_SEGUIR' : 'http://localhost:5000/api-docs/',
             },
         ],
     },

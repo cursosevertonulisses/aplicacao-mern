@@ -83,7 +83,7 @@ const Register = ({ register, isAuthenticated }) => {
                         data-test="register-email"
                     />
                     <small className="form-text">
-                        Este site usa Gravatar, então caso queira uma imagem para o perfil, user o email Gravatar
+                        Possibilidade de uso com email Gravatar [imagem]
                     </small>
                 </div>
                 <div className="my-1">
