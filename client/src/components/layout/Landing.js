@@ -13,9 +13,7 @@ const Landing = ({ isAuthenticated }) => {
             <div className="dark-overlay">
                 <div className="landing-inner">
                     <h1 className="x-large" data-test="landing-title">Aplicação Full Stack M.E.R.N.</h1>
-                    <p className="lead" data-test="landing-subtitle">
-                        Muito alêm de Login, com cadastro, perfil, dashboard, gerenciamento de posts
-                    </p>
+                    <p className="lead" data-test="landing-subtitle">Muito alêm de Login, com cadastro, perfil, dashboard, gerenciamento de posts</p>
                     <div className="buttons">
                         <Link to="/cadastrar" className="btn btn-primary" data-test="landing-register">Cadastrar</Link>
                         <Link to="/login" className="btn btn-light" data-test="landing-login">Login</Link>

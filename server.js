@@ -36,8 +36,8 @@ const options = {
                 'Documentação das APIs. Aplicação desenvolvida para treinar testes E2E e APIs com Selenium, Cypress, Playwright e RobotFramework.',
         },
         servers: [
-            {
-                url: process.env.NODE_ENV === 'production' ? 'https://ROTA_ALTERNATIVA_A_SEGUIR' : 'http://localhost:5000/api-docs/',
+             {
+                url: process.env.NODE_ENV === 'production' ? 'https://conexaoqa.herokuapp.com' : 'http://localhost:5000',
             },
         ],
     },
@@ -47,6 +47,7 @@ const options = {
 const specs = swaggerJsdoc(options);
 app.use(
     '/api-docs',
+    
     swaggerUi.serve,
     swaggerUi.setup(specs, { explorer: true })  // enables search bar
 )
